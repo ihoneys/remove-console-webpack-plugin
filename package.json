@@ -1,0 +1,13 @@
+{
+  "name": "remove-console-webpack-plugin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "yarn webpack"
+  },
+  "devDependencies": {
+    "webpack": "^0.0.1",
+    "webpack-cli": "^0.0.1-security"
+  }
+}
